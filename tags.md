@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 标签
+title: 点击各种标签找你喜欢看的呗！
 permalink: /tags/
 ---
 
-点击各种标签找你喜欢看的呗！
+
 
 <div>
 {% for tag in site.tags %} 
