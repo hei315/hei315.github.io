@@ -25,14 +25,12 @@
 ##反黑联盟：
 ###[微信](http://www.douban.com/photos/album/119829946/)
 
-
 ###[博客](http://blog.sina.com.cn/s/blog_83251f760100u2m9.html)
 
+###[黑中介吧](http://tieba.baidu.com/f?kw=%BA%DA%D6%D0%BD%E9)
 
 
- [黑中介吧：](http://tieba.baidu.com/f?kw=%BA%DA%D6%D0%BD%E9)
-
- ###黑中介受害者联盟QQ群
+###黑中介受害者联盟QQ群
  
  * 54174263
  * 34303641
