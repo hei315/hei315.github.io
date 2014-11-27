@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-欢迎举报，欢迎曝光,有黑必报！
+欢迎举报，欢迎曝光，有黑必报！
 
 ### 邮箱：
 
